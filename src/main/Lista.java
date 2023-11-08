@@ -8,6 +8,6 @@ public class Lista {
     }
 
     private static void listaNomesOrdemAlfabetica() {
-        System.out.println("***ListaOrdemAlfabética***");
+        System.out.println("****ListaOrdemAlfabética****");
     }
 }
